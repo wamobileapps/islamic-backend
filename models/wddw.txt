@@ -1,0 +1,14 @@
+{
+    "name":"Test",
+    "middlename":"Test2",
+    "last_name":"", 
+    "gender":"",
+    "Photo":"Image Url",
+    "birthDate":"2022-11-10",
+    "place":"",
+    "isAlive":"true/false", 
+    "Age":"20", 
+    "Notes":"", 
+    "parents":[1,2,3], 
+    "userrType":[1,2,3] 
+} 
